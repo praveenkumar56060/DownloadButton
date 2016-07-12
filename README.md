@@ -109,7 +109,7 @@ self.downloadButton.pendingView.spinTime = 3.f;
 
 ## Requirements
 
-Requires iOS SDK version > 8.0
+Requires iOS SDK version > 7.0
 
 ## Installation
 
